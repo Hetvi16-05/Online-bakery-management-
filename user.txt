@@ -1,0 +1,4 @@
+hetvi,hetvi@gmail.com,1234567899,123,Seller
+sneha,sneha@gmail.com,1234567897,123,Customer
+parisha,parisha@gmail.com,1234567892,123,Customer
+nipa,nipa@gmail.com,1234567896,1234,Seller

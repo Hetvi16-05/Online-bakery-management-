@@ -1,0 +1,5 @@
+choc cake,3,500.0,cake,lnvb,hetvi
+choc cupcake,7,50.0,cupcake,nvjn,hetvi
+choco brownie,6,250.0,brownie,nbn,hetvi
+toast,0,45.0,toast,jhkjvbjk,nipa
+choc roll,0,60.0,roll,hjvj,nipa
